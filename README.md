@@ -16,11 +16,11 @@ User-Friendly Interface: BasketGraphex is designed with simplicity in mind which
 
 ## Needed Libraries 
 
-1-streamlit
-2-pandas
-3-plotly
-4-matplotlib
-5-seaborn
+1-streamlit<br>
+2-pandas<br>
+3-plotly<br>
+4-matplotlib<br>
+5-seaborn<br>
 6-mlxtend.frequent_patterns
 
 ## How to run it
