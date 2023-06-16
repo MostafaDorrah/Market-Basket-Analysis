@@ -29,7 +29,7 @@ User-Friendly Interface: BasketGraphex is designed with simplicity in mind which
 
 Once you've created your script, say your_script.py, the easiest way to run it is with streamlit run:
 
-```streamlit run your_script.py```
+```$ streamlit run your_script.py```
 
 As soon as you run the script as shown above, a local Streamlit server will spin up and your app will open in a new tab in your default web browser.
 
