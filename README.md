@@ -14,7 +14,7 @@ User-Friendly Interface: BasketGraphex is designed with simplicity in mind which
 
 # Get Started
 
-## Needed Libereries 
+## Needed Libraries 
 
 1- streamlit
 2- pandas
