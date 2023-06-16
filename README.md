@@ -1,8 +1,8 @@
-### Introduction 
+# Introduction 
 
 BasketGraphex is a powerful basket market analysis website that provides comprehensive insights derived from market basket data.BasketGraphex reviles valuable patterns and conclusions that can be found in the data provided.
 
-### Key Features
+## Key Features
 
 Data preprocessing: BasketGraphex performs a few important preprocessing steps including data cleaning and feature engineering.
 
@@ -25,11 +25,11 @@ User-Friendly Interface: BasketGraphex is designed with simplicity in mind which
 
 ## How to run it
 
-# Use streamlit run
+### Use streamlit run
 
 Once you've created your script, say your_script.py, the easiest way to run it is with streamlit run:
 
-'''streamlit run your_script.py'''
+```streamlit run your_script.py```
 
 As soon as you run the script as shown above, a local Streamlit server will spin up and your app will open in a new tab in your default web browser.
 
