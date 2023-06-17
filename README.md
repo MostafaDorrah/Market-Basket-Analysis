@@ -11,7 +11,7 @@ Visualize Insights: BasketGraphex provides important information using different
 Advanced basket analysis: BasketGraphex provides deep analysis of the data using Apiori, FPgrowth, and hmine algorithms
 
 User-Friendly Interface: BasketGraphex is designed with simplicity in mind which make it easy to understand and interact with using Streamlit.
-
+ 
 # Get Started
 
 ## Needed Libraries 
