@@ -13,7 +13,7 @@ Advanced basket analysis: BasketGraphex provides deep analysis of the data using
 User-Friendly Interface: BasketGraphex is designed with simplicity in mind which make it easy to understand and interact with using Streamlit.
  
 # Get Started
-.
+
 ## Needed Libraries 
 
 1-streamlit<br>
